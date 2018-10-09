@@ -1,0 +1,29 @@
+h1{
+    color: black;
+
+    text-align: center;
+}
+
+h2{
+    color: brown;
+
+    text-align: center;
+}
+
+.navbar-light .navbar-brand {
+    color: skyblue;
+}
+
+.jumbotron {
+    background-image: url(jumbobackdrop.jpg);
+    background-attachment: fixed;
+    background-size: cover;
+}
+
+.navbar-light .navbar-nav .active>.nav-link {
+    color: white;
+}
+
+.navbar-light .navbar-nav .nav-link {
+    color:orange;
+}
